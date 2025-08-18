@@ -30,4 +30,5 @@ To add or update information:
 - [CCF conference ranking](https://www.ccf.org.cn/xspj/gyml/)
 - [JHU SoC Conference ranking](http://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html)
 - [JHU SoC Journal Ranking](http://www.cs.jhu.edu/~taochen/SoC_Journal_Ranking.html)
+- [PKU CECA A+ & A Jour./Conf.](https://ceca.pku.edu.cn/en/research_/topconf_/index.htm)
 - [Best Paper Awards](https://jeffhuang.com/best_paper_awards.html#)
