@@ -38,6 +38,7 @@ To add or update information:
 - [db-dm-ml deadlines](https://ccfddl.com/)
 - [DS Conference Deadlines](https://ds-deadlines.github.io/)  
 - [ai-deadlines.es](https://aideadlin.es/?sub=DM,ML,NLP,SP,CV,RO)
+- [AI Conference Deadlines](https://mlciv.com/ai-deadlines/)  
 - [CCF Conference Deadlines](https://github.com/ccfddl/ccf-deadlines)
 - [csconferences](https://csconferences.org/)  
 - [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences)
